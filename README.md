@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
 <h3 align="center">Some guy with a passion</h3><br>
 
-- 🌱 I’m currently learning **PHP & JS**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
